@@ -1,0 +1,26 @@
+{
+  "name": "typescript-to-json",
+  "version": "0.0.7",
+  "description": "",
+  "main": "./src/index.js",
+  "keywords": [
+    "typescirpt",
+    "json",
+    "parse",
+    "convert",
+    "d.ts"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/zuolung/typescript-to-json"
+  },
+  "bugs": {
+    "url": "https://github.com/zuolung/typescript-to-json/issues/new"
+  },
+  "author": "zuolung <zuolung@126.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.4.1"
+  }
+}
